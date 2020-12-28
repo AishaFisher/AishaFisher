@@ -1,5 +1,6 @@
-### Hi there 👋
+[![AishaFisher's github stats](https://github-readme-stats.vercel.app/api?username=AishaFisher&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/AishaFisher/AishaFisher/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishaFisher&layout=compact)](https://github.com/AishaFisher/AishaFisher/)
 <!--
 **AishaFisher/AishaFisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
